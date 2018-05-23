@@ -1,4 +1,4 @@
-package com.codeko.factory.dto;
+package com.codeko.creationalpattern.factory.dto;
 
 public class Server extends Computer {
     private String ram;

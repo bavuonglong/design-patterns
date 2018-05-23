@@ -1,8 +1,8 @@
-package com.codeko.factory;
+package com.codeko.creationalpattern.factory;
 
-import com.codeko.factory.dto.Computer;
-import com.codeko.factory.dto.PC;
-import com.codeko.factory.dto.Server;
+import com.codeko.creationalpattern.factory.dto.Computer;
+import com.codeko.creationalpattern.factory.dto.PC;
+import com.codeko.creationalpattern.factory.dto.Server;
 
 public class ComputerFactory {
 

@@ -1,6 +1,6 @@
-package com.codeko.factory;
+package com.codeko.creationalpattern.factory;
 
-import com.codeko.factory.dto.Computer;
+import com.codeko.creationalpattern.factory.dto.Computer;
 
 public class TestFactory {
     public static void main(String[] args) {
